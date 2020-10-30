@@ -8,8 +8,8 @@
     <meta name="description" content="">
     <meta name="page_type" content="np-template-header-footer-from-plugin">
     <title>Page 1</title>
-    <link rel="stylesheet" href="nicepage.css" media="screen">
-    <link rel="stylesheet" href="Page-1.css" media="screen">
+    <link rel="stylesheet" href="css/nicepage.css" media="screen">
+    <link rel="stylesheet" href="css/Page-1.css" media="screen">
     <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
     <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
     <meta name="generator" content="Nicepage 2.28.1, nicepage.com">
@@ -32,7 +32,7 @@
     <meta property="og:title" content="Page 1">
     <meta property="og:type" content="website">
     <meta name="theme-color" content="#478ac9">
-    <link rel="canonical" href="index.jsp">
+    <link rel="canonical" href="../WEB-INF/views/jsp/index.jsp">
     <meta property="og:url" content="index.html">
 </head>
 <body class="u-body">
