@@ -21,7 +21,7 @@
         "@context": "http://schema.org",
         "@type": "Organization",
         "name": "",
-        "url": "index.html",
+        "url": "index.jsp",
         "logo": "images/VerdeeFlorRosaFolhasFloralLogotipo1.png",
         "sameAs": [
             "https://linkedin.com/in/darakimberlys/"
